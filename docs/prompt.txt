@@ -1,0 +1,1715 @@
+You are conducting an autonomous research, theory-building, literature-review, manuscript-development, and submission-preparation project for the THIRD and FINAL paper in a three-paper conceptual research program.
+
+This prompt concerns Paper 3/3 ONLY.
+
+Do NOT merge this paper with the other two papers except where a minimal cross-reference is intellectually unavoidable.
+
+The other papers are:
+
+* Paper 1: revival conditions of indigenous / practice-centered religion
+* Paper 2: religious legibility / observability bias and measurement problems in comparative religion
+
+Those are separate manuscripts.
+
+Do not import their arguments, empirical claims, framing, terminology, figures, or conclusions into Paper 3 unless strictly necessary.
+
+This manuscript must stand independently.
+
+⸻
+
+PROJECT IDENTITY
+
+Working title
+
+The Reincarnation of the Divine: The Vortex of One and Many in Ever-Changing Worlds
+
+The title may be modified only if literature review or journal fit makes a clearly superior title necessary.
+
+Preserve the central concepts:
+
+* reincarnation of divine representation / authority
+* One and Many
+* historical change
+* recurrent aggregation and differentiation
+
+Do not interpret “reincarnation” literally as a theological doctrine.
+
+It is an analytical metaphor for recurrent restructuring of divine representation, authority, function, and interpretive architecture.
+
+⸻
+
+PRIMARY TARGET JOURNAL
+
+Initial first-choice journal:
+
+Journal of the American Academy of Religion (JAAR)
+
+The final journal must NOT be assumed in advance.
+
+Before full manuscript adaptation, conduct a formal Journal Selection Gate.
+
+At minimum compare:
+
+1. Journal of the American Academy of Religion
+2. Religion
+3. Method & Theory in the Study of Religion
+4. Numen
+
+Other journals may be added if literature ecology identifies a materially better fit.
+
+Selection criteria:
+
+* current journal scope
+* acceptance of conceptual/theoretical work
+* comparative religion fit
+* history/theory of religion fit
+* citation ecology / bibliographic neighborhood
+* likelihood that the article speaks to the journal’s scholarly conversation
+* journal quartile/status where relevant
+* subscription/hybrid publication availability
+* APC requirements
+* article length limits
+* formal-model tolerance
+* suitability of broad cross-tradition argument
+
+Do not select a journal solely by impact factor or prestige.
+
+Citation ecology must be a central component of journal selection.
+
+STOP at the Journal Selection Gate only if an explicit human approval is required by the execution environment.
+
+Otherwise document the recommendation and continue with the highest-fit journal.
+
+⸻
+
+CENTRAL RESEARCH QUESTION
+
+The manuscript must preserve the following deep question:
+
+Why should Many-to-One be interpreted as religious development if One-to-Many can be described with equal formal plausibility as differentiation, narrative articulation, specialization, or renewed interpretive plurality?
+
+A second central question is:
+
+Are monotheism and polytheism always distinct religious ontologies, or can they sometimes reflect different representational resolutions applied to partially overlapping spaces of divine attributes, functions, norms, forces, and narratives?
+
+A third temporal question is:
+
+What happens when a divine authority whose normative repertoire was stabilized under an earlier social, ecological, political, or technological environment is expected to adjudicate problems that did not exist when that repertoire emerged?
+
+The paper must integrate all three.
+
+⸻
+
+CORE THESIS
+
+Do NOT argue:
+
+* monotheism is superior to polytheism
+* polytheism is superior to monotheism
+* polytheism is the true endpoint of religious development
+* monotheism is historically primitive
+* monotheism is inherently violent
+* polytheism is inherently peaceful
+* all gods originate as social norms
+* all religions are secretly monotheistic
+* all monotheistic religions are secretly polytheistic
+* religious beliefs are true or false
+* priests deliberately invented doctrines to dominate believers
+
+The central theoretical claim should instead be approximately:
+
+Monotheism and polytheism need not be understood as successive stages on a unidirectional developmental axis. In at least some historical settings, One and Many can be analyzed as different configurations of how divine attributes, functions, narratives, and normative authority are bundled across agents and interpreters. Aggregation and differentiation are both recurrent transformations. Historical novelty can create renewed interpretive differentiation within ontological unity, while institutional processes may subsequently accommodate, stabilize, or recompress that plurality.
+
+A second key proposition is:
+
+The number of gods may be an insufficient statistic for the architecture of divine representation.
+
+A third key proposition is:
+
+The mistake may not be choosing the wrong direction of religious evolution. The mistake may be inferring development from the direction of aggregation itself.
+
+⸻
+
+NOVELTY BOUNDARY
+
+Do NOT claim novelty merely from observations already well established, such as:
+
+* polytheistic traditions may contain high gods
+* monotheistic traditions contain internal plurality
+* henotheism exists
+* monolatry exists
+* divine attributes exist
+* saints, angels, prophets, or intermediaries complicate simple classification
+* ancient religions do not fit simple binaries
+* orthodoxy and heresy are historically constructed
+* traditions reinterpret doctrine when new problems emerge
+
+These are background premises.
+
+The intended novelty lies in the integration of the following:
+
+Novelty Candidate 1 — Directional Symmetry Test
+
+A method for testing whether developmental language applied to Many→One survives reversal.
+
+If aggregation can be described as:
+
+* integration
+* compression
+* coordination
+
+while differentiation can equally be described as:
+
+* specialization
+* articulation
+* functional differentiation
+* narrative elaboration
+
+then neither direction should be called “development” without an independent evaluative criterion.
+
+Formal principle:
+
+direction of transformation ≠ direction of development
+
+⸻
+
+Novelty Candidate 2 — Aggregation–Differentiation Operators
+
+Treat One/Many not as fixed binary categories but as transformations in a multidimensional representational architecture.
+
+Define, if defensible:
+
+Aggregation operator:
+
+A:
+{G1, G2, …, Gn}
+→
+G*
+
+Differentiation operator:
+
+D:
+G*
+→
+{G1, G2, …, Gn}
+
+Do not claim historical reversibility simply because formal reversibility exists.
+
+Maintain the distinction:
+
+formal reversibility ≠ historical reversibility
+
+⸻
+
+Novelty Candidate 3 — Representational Granularity
+
+Investigate whether some cases classified as One versus Many differ partly in how an overlapping semantic space is partitioned across agents.
+
+Define semantic feature space:
+
+F = {f1, f2, …, fm}
+
+Possible features include:
+
+* creation
+* death
+* fertility
+* justice
+* mercy
+* warfare
+* knowledge
+* healing
+* protection
+* danger
+* social obligation
+* cosmological order
+* existential uncertainty
+
+Define agents:
+
+G = {g1, g2, …, gn}
+
+Define a feature-agent assignment structure:
+
+W = (wij)
+
+where wij represents the association of semantic feature fi with agent gj.
+
+Do NOT claim that all religions share the same semantic space.
+
+Do NOT claim that ontology is reducible to representation.
+
+The hypothesis is limited:
+
+in some cases, deity number may partially reflect the resolution at which a partially overlapping semantic space is partitioned.
+
+⸻
+
+Novelty Candidate 4 — The Vortex of One and Many
+
+The core process is not a closed cycle.
+
+Model recurrent, path-dependent transformation:
+
+Differentiation
+→
+Hierarchization
+→
+Aggregation
+→
+Authoritative Unity
+→
+Internal Differentiation
+→
+Interpretive Multiplication
+→
+Reintegration
+→
+Renewed Differentiation
+→ …
+
+The later state must not be assumed identical to the earlier state.
+
+Formally:
+
+X(t+n) ≠ X(t)
+
+because the system accumulates:
+
+* historical memory
+* institutions
+* texts
+* commentaries
+* precedents
+* sectarian history
+* interpretive conventions
+* social restructuring
+
+This path dependence is the reason to call the model a Vortex rather than a cycle.
+
+⸻
+
+Novelty Candidate 5 — Representational Inversion
+
+Develop the transition:
+
+Norm
+→
+God
+
+followed by:
+
+God
+→
+Norm
+
+This represents a possible shift from:
+
+“the divine representation expresses or carries a norm”
+
+to:
+
+“the norm is authoritative because it expresses divine will.”
+
+Do NOT treat this as the historical origin of all religion.
+
+Do NOT claim this is unique to monotheism.
+
+It is a possible representational transformation.
+
+⸻
+
+NEW TEMPORAL MODULE
+
+This module is essential.
+
+It must NOT replace the core Vortex model.
+
+It explains one possible engine that keeps the Vortex moving through historical time.
+
+⸻
+
+HISTORICAL NOVELTY
+
+Model the changing external environment.
+
+Define context:
+
+C_t = (T_t, Eco_t, Pol_t, K_t, S_t)
+
+where:
+
+* T = technology
+* Eco = ecology/environment
+* Pol = political/institutional structure
+* K = available knowledge
+* S = social structure
+
+Historical change yields:
+
+C_(t+1) ≠ C_t
+
+and potentially:
+
+Problem_(t+1) ≠ Problem_t
+
+Examples may include:
+
+* reproductive technologies
+* genetic engineering
+* organ transplantation
+* artificial intelligence
+* industrial warfare
+* nuclear weapons
+* communication technologies
+* urbanization
+* globalization
+* climate change
+* transformed family structures
+* changing political institutions
+
+These are examples only.
+
+Do not turn the article into a modern technology ethics paper.
+
+⸻
+
+NORMATIVE CARRYOVER PROBLEM
+
+Define carefully.
+
+A Normative Carryover Problem occurs when a norm, interpretive rule, or authority relation stabilized under one problem environment is invoked in a materially different problem environment without an automatically determined mapping between old and new problems.
+
+Avoid simplistic claims such as:
+
+“old religion no longer fits modernity.”
+
+Instead introduce:
+
+interpretive distance
+
+d(P_(t+1), N_t)
+
+A chronologically old norm can have low interpretive distance from a new problem.
+
+A recent norm can have high interpretive distance.
+
+Therefore chronological age alone is not the relevant variable.
+
+⸻
+
+INTERPRETIVE LOAD
+
+Develop:
+
+L_(t+1) =
+f(
+interpretive distance,
+authority jurisdiction,
+degree of sacralization,
+revision constraint,
+interpretive institutional structure
+)
+
+High interpretive load is NOT inherently pathological.
+
+It may reflect highly sophisticated adaptive reasoning.
+
+The neutral claim is:
+
+continuity across changing environments requires interpretive work.
+
+⸻
+
+TEMPORAL AUTHORITY EXTENSION
+
+After representational inversion, an inherited divine authority may continue to govern new problem domains.
+
+Model:
+
+Problem_(t+1)
+→
+God_t
+→
+Interpretation_(t+1)
+→
+Norm_(t+1)
+
+The critical mechanism is underdetermination.
+
+For a new problem p*:
+
+I1(G, p*)
+≠
+I2(G, p*)
+≠
+I3(G, p*)
+
+may occur while all interpreters recognize the same divine authority.
+
+This creates:
+
+ontological One → interpretive Many
+
+Historical novelty therefore becomes one possible engine of differentiation.
+
+⸻
+
+AUTHORIZED INTERPRETATION
+
+Strongly integrate the new module with existing authorized interpretation.
+
+Possible structure:
+
+God
+→
+Authorized Interpreter
+→
+Norm
+
+Relevant interpretive institutions may include:
+
+* theologians
+* jurists
+* priests
+* councils
+* scriptural specialists
+* prophetic traditions
+* formal institutions
+* commentarial communities
+
+Do NOT infer cynical intent.
+
+Do NOT claim interpreters deliberately manufacture contradictions.
+
+Treat authorized interpretation as an institutional response to the combination of:
+
+1. continuing sacred authority
+2. new problems
+3. non-unique mappings
+4. demand for normatively binding decisions
+
+⸻
+
+INTERPRETIVE ACCUMULATION / DOCTRINAL ACCRETION
+
+Model:
+
+D_(t+1)
+
+D_t
++
+ΔI_(t+1)
+
+where ΔI may include:
+
+* precedents
+* distinctions
+* exceptions
+* commentaries
+* rulings
+* analogies
+* interpretive rules
+
+Do not use “patchwork” as the main technical term unless carefully justified.
+
+Prefer:
+
+interpretive accumulation
+
+or:
+
+doctrinal accretion
+
+Do NOT assume:
+
+complexity = decay.
+
+Complexity may enable highly adaptive traditions.
+
+Investigate trade-offs among:
+
+* adaptability
+* consistency
+* accessibility
+* specialist dependence
+* interpretive centralization
+* institutional continuity
+* internally defensible pluralism
+
+Important hypothesis:
+
+interpretive accumulation may simultaneously stabilize tradition AND generate additional resources for future differentiation.
+
+⸻
+
+AUTHORITY-SCOPE RELEASE
+
+This concept is essential and must receive substantial theoretical treatment.
+
+Do NOT equate it with:
+
+* secularization
+* loss of faith
+* death of God
+* disappearance of religion
+* weakening of sacredness
+
+Instead distinguish:
+
+continued sacred significance
+
+from:
+
+continued regulatory jurisdiction
+
+A divine authority may remain sacred while no longer being expected to provide case-specific adjudication for every historically novel problem.
+
+Possible sequence:
+
+God_t
+→
+Norm_t
+→
+Internalization
+→
+Relative Authority-Scope Release
+
+This is the formalized version of the intuitive idea that a deity may be allowed to “finish a job.”
+
+⸻
+
+DIVINE RETIREMENT AS ANALYTICAL METAPHOR
+
+Use cautiously but preserve because it is conceptually powerful.
+
+Ask:
+
+Can a divine authority finish a historical function without ceasing to be divine?
+
+Do NOT make “divine retirement” the primary technical term unless literature supports it.
+
+Prefer the formal term:
+
+authority-scope release
+
+Use “divine retirement” as a memorable analytical metaphor in the Discussion if appropriate.
+
+The contrast is:
+
+Path A — Authority Extension
+
+G
+→
+N_t
+→
+Problem_(t+1)
+→
+Interpretation_(t+1)
+→
+N_(t+1)
+→
+Problem_(t+2)
+→ …
+
+The same sacred authority retains jurisdiction across continuously novel domains.
+
+Path B — Authority-Scope Release
+
+G
+→
+N_t
+→
+Internalization
+→
+Functional Release
+
+followed by:
+
+Problem_(t+1)
+→
+Normative Adaptation
+
+without necessarily requiring equivalent growth in case-specific divine interpretation.
+
+Neither pathway is assumed superior.
+
+Analyze potential benefits and costs of both.
+
+Authority extension may support:
+
+* identity continuity
+* sacred continuity
+* moral coherence
+* legitimacy
+* transgenerational stability
+
+Authority-scope release may support:
+
+* local adaptability
+* lower interpretive dependency
+* easier revision under novel conditions
+
+Do NOT convert this into a normative ranking.
+
+⸻
+
+THE VORTEX WITH HISTORICAL NOVELTY
+
+Integrate the complete mechanism:
+
+Aggregation
+→
+Authoritative Representation
+→
+Historical Novelty
+→
+Interpretive Underdetermination
+→
+Authorized Interpretation
+→
+Interpretive Multiplication
+→
+Differentiation
+→
+Plural Accommodation / Schism / Reintegration
+→
+Renewed Aggregation
+
+Then:
+
+new historical novelty
+→
+renewed interpretation
+→
+renewed differentiation
+
+This is the temporal engine of the Vortex.
+
+Core insight:
+
+Historical novelty can turn ontological unity into interpretive plurality.
+
+A second key insight:
+
+The Vortex may weaken or partially decouple when inherited divine authority can relinquish completed regulatory functions.
+
+⸻
+
+INSIDER / OUTSIDER ASYMMETRY
+
+Do NOT write:
+
+“insiders cannot see contradictions.”
+
+Instead model revision cost.
+
+Let:
+
+C_R =
+f(
+identity linkage,
+sacredness,
+ancestral continuity,
+community dependence,
+salvation relevance,
+institutional commitment
+)
+
+A norm revision that appears inexpensive externally may have high social and existential cost internally.
+
+The manuscript should state approximately:
+
+The cost structure of normative revision is endogenous to religious belonging.
+
+Treat this as an analytical hypothesis, not a psychological insult.
+
+⸻
+
+IDENTITY THREAT AND BOUNDARY DEFENCE
+
+Do NOT infer:
+
+interpretive strain → aggression.
+
+Instead examine a conditional pathway:
+
+Interpretive Strain
++
+Identity Threat
++
+Sacred Values
++
+Exclusive Truth Claims
++
+Intergroup Competition
++
+Interpretive Monopoly
+
+may under some conditions increase the probability of:
+
+* defensive literalism
+* doctrinal hardening
+* exclusion
+* heresy designation
+* schism
+* outgroup hostility
+
+These are empirical hypotheses.
+
+Do not claim necessity.
+
+Do not attribute violence to monotheism as such.
+
+⸻
+
+FORMAL STATE SPACE
+
+Consider a multidimensional state representation:
+
+X_t =
+(
+A_eff,
+B,
+D,
+N,
+I,
+U,
+E,
+R_eff,
+L,
+J
+)
+
+Candidate dimensions:
+
+A_eff = effective diversity of divine agents
+
+B = attribute bundling
+
+D = functional specialization/differentiation
+
+N = narrative differentiation
+
+I = interpretive centralization
+
+U = universality of jurisdiction
+
+E = exclusivity of truth claims
+
+R_eff = effective diversity of authorized interpreters
+
+L = interpretive load
+
+J = scope of divine jurisdiction
+
+Do NOT collapse all dimensions into one index unless empirically justified.
+
+⸻
+
+POSSIBLE QUANTIFICATION
+
+If defensible, consider:
+
+Effective agent diversity:
+
+A_eff =
+exp(
+
+* Σ q_g log q_g
+    )
+
+where q_g represents semantic or functional weight assigned to agent g.
+
+Possible bundling/concentration measure:
+
+B =
+Σ q_g^2
+
+Possible functional differentiation:
+
+D =
+I(F;G) / H(F)
+
+or another normalized association measure.
+
+These are conceptual candidates only.
+
+Do not force mathematically elegant formulas if the data or conceptual meaning does not support them.
+
+Every formula must have an explicit interpretive meaning.
+
+⸻
+
+HYPOTHESES TO TEST / REFINE
+
+Do not preserve any hypothesis if literature review invalidates it.
+
+H1 — Interpretive-Distance Hypothesis
+
+Greater distance between newly emerging problem domains and the problem environment under which inherited norms were stabilized should increase interpretive load, other things equal.
+
+H2 — Authority-Extension Hypothesis
+
+The broader the range of historically novel domains over which the same divine authority retains jurisdiction, the greater the institutional importance of authorized interpretation.
+
+H3 — Novelty-Induced Differentiation Hypothesis
+
+Where inherited authority underdetermines responses to historically novel problems, novelty should create opportunities for interpretive multiplication even under ontological unity.
+
+H4 — Conditional Reintegration Hypothesis
+
+Interpretive multiplication should be more likely to elicit formal reintegration where exclusivity, interpretive centralization, and institutional incentives for doctrinal uniformity are jointly high.
+
+H5 — Authority-Scope-Release Hypothesis
+
+Where norms can remain socially binding while becoming less dependent on case-specific divine adjudication, novel problem domains may permit wider normative adaptation without equivalent expansion of authorized interpretation.
+
+H6 — Accretion–Plurality Hypothesis
+
+Interpretive accumulation may simultaneously stabilize a tradition and increase the number of internally defensible interpretive pathways.
+
+H7 — Vortex-Recurrence Hypothesis
+
+Historical sequences should exhibit recurrent movements toward aggregation and differentiation, but successive states should remain historically non-identical because each transition changes the institutional and interpretive state space.
+
+⸻
+
+GENUINE FALSIFICATION CONDITIONS
+
+The manuscript must contain explicit conditions under which the theory would be weakened.
+
+At minimum examine:
+
+1. aggregation/differentiation recurrence is rare or absent across suitable historical cases
+2. apparent One↔Many transformations actually involve complete semantic replacement rather than partial continuity
+3. interpretive multiplication does not increase under new problem environments
+4. scope of divine jurisdiction is unrelated to interpretive institutionalization
+5. ontological unity consistently predicts interpretive unity
+6. authority-scope release cannot be meaningfully identified in historical or ethnographic evidence
+7. formal reverse descriptions are possible but historical transition probabilities are overwhelmingly directional
+8. independent developmental outcomes consistently align with one direction even after removing teleological terminology
+9. semantic partition models add no explanatory value beyond existing historical categories
+
+Do NOT build an unfalsifiable grand theory.
+
+⸻
+
+LITERATURE REVIEW — REQUIRED SEARCH DOMAINS
+
+Conduct a comprehensive literature review through the latest available literature.
+
+Search at minimum:
+
+Historiography and theory of religion
+
+* monotheism / polytheism distinction
+* history of comparative religion
+* unilinear religious evolution
+* Tylor
+* Frazer
+* Andrew Lang
+* Wilhelm Schmidt
+* primitive monotheism
+* degeneration theories
+* critique of evolutionary religion models
+
+One and Many
+
+* henotheism
+* kathenotheism
+* monolatry
+* inclusive monotheism
+* exclusive monotheism
+* pagan monotheism
+* divine hierarchy
+* high gods
+* supreme beings
+* manifestations of common divinity
+
+Historical traditions
+
+* ancient Egyptian theology
+* Akhenaten
+* Egyptian divine syncretism
+* ancient Israelite religion
+* Yahweh and monolatry
+* Greco-Roman high-god traditions
+* late antique pagan monotheism
+* Neoplatonism
+* the One
+* Hindu unity/plurality
+* Brahman and deity relations
+
+Internal plurality
+
+* divine attributes
+* divine names
+* Trinity
+* angels
+* saints
+* prophets
+* intermediaries
+* mystical emanations
+* sectarian differentiation
+
+Cognitive science
+
+* cognitive science of religion
+* anthropomorphism
+* minimally counterintuitive agents
+* narrative cognition
+* personification
+* cultural transmission
+* memory of supernatural concepts
+* theological incorrectness
+* agent representation
+* category granularity
+* coarse-graining
+* semantic compression
+
+Institutional dynamics
+
+* doctrinal standardization
+* confessionalization
+* heresy formation
+* orthodoxy
+* schism
+* religious jurisprudence
+* interpretation
+* scriptural authority
+* authorized interpretation
+* interpretive communities
+* religious law and innovation
+
+Historical novelty and adaptation
+
+* religious responses to technological innovation
+* reproductive technology and religion
+* bioethics and religion
+* AI and religion
+* ecological change and religion
+* religious law and new technologies
+* legal analogy
+* jurisprudential extension
+* doctrinal adaptation
+* religious norm change
+* sacred values
+* identity threat
+* religious boundary defence
+
+Formal and structural analogies
+
+* distributed vs centralized representation
+* network models of pantheons
+* cultural evolution of gods
+* partition models
+* semantic networks
+* representational compression
+* information compression
+* hierarchical representation
+
+Search specifically for prior theories that resemble:
+
+* recurrent One↔Many transformation
+* cyclic or spiral models of monotheism/polytheism
+* aggregation/differentiation of gods
+* religious representation as coarse-graining
+* deity number as granularity
+* reverse-development tests
+* directional symmetry tests
+* divine authority release
+* religious jurisdiction release
+* “retirement” of gods or divine functions
+* historical novelty as a generator of sectarian differentiation
+
+The literature review must actively try to falsify novelty.
+
+⸻
+
+PHASE STRUCTURE
+
+Use the following workflow.
+
+⸻
+
+PHASE 1 — PRIOR ART / NOVELTY STRESS TEST
+
+Perform a deep literature review before drafting the manuscript.
+
+Create a table containing:
+
+* proposed concept
+* nearest prior literature
+* degree of overlap
+* exact difference
+* novelty status
+
+Classify each concept:
+
+* NEW / plausibly novel
+* NEW COMBINATION
+* EXTENSION
+* ALREADY ESTABLISHED
+* NOT DEFENSIBLE
+
+At minimum assess:
+
+* Directional Symmetry Test
+* Vortex model
+* representational granularity
+* semantic partition model
+* representational inversion
+* temporal authority extension
+* normative carryover
+* interpretive load
+* interpretive accumulation
+* authority-scope release
+* divine retirement metaphor
+
+⸻
+
+PHASE 2 — GO / MODIFY / NO-GO
+
+Apply a strict decision rule.
+
+GO
+
+Proceed if several of the following remain defensible:
+
+* directional symmetry is a useful new analytical device
+* aggregation/differentiation provides a genuinely integrative framework
+* representational granularity adds explanatory value
+* historical examples demonstrate bidirectional transition
+* historical novelty plausibly generates interpretive differentiation
+* authority-scope release is theoretically distinguishable from secularization
+* the model generates falsifiable predictions
+* no existing work already provides substantially the same integrated theory
+
+MODIFY
+
+Proceed with major narrowing if the broad Vortex overlaps existing theory but one or more modules remain distinctive.
+
+NO-GO
+
+Stop full manuscript construction if near-identical integrated theory already exists or if the theory cannot generate distinct empirical implications.
+
+Document the reason.
+
+Do not force a GO result.
+
+⸻
+
+PHASE 3 — HISTORICAL CASE SELECTION
+
+Select a small number of historically defensible cases.
+
+Likely candidates:
+
+* ancient Egypt
+* ancient Israel/Judah
+* Greco-Roman / late antique religious philosophy
+* Indian traditions
+
+Possible structural illustrations:
+
+* Islamic divine names/attributes
+* Christian internal differentiation
+* other traditions identified by the literature
+
+Do NOT perform superficial world-religion sampling.
+
+Prefer 3–4 deeply documented cases over many shallow examples.
+
+Cases should serve different analytical functions.
+
+For each case identify whether it illustrates:
+
+* aggregation
+* differentiation
+* coexistence of One and Many
+* interpretive multiplication
+* historical novelty
+* reintegration
+* authority-scope release
+
+Avoid forcing a case to fit.
+
+⸻
+
+PHASE 4 — FORMAL MODEL
+
+Construct the smallest defensible formal model.
+
+Requirements:
+
+* define every variable
+* define operators
+* explain interpretation
+* distinguish ontology from representation
+* distinguish formal from historical reversibility
+* show path dependence
+* derive testable propositions
+
+Avoid unnecessary mathematical ornament.
+
+Do not use formulas purely to make a conceptual paper appear quantitative.
+
+⸻
+
+PHASE 5 — EMPIRICAL FEASIBILITY
+
+Assess whether public sources can support a small empirical demonstration.
+
+Consider:
+
+* historical text coding
+* divine attribute matrices
+* theological dictionaries
+* structured religious datasets
+* Pulotu
+* D-PLACE
+* Seshat
+* existing corpora
+* public scripture/commentary corpora where appropriate
+
+Determine whether a defensible feature-agent matrix W can be coded.
+
+If not, retain the formal model as theory and use historically documented illustrations.
+
+Do NOT fabricate quantitative data.
+
+⸻
+
+PHASE 6 — MANUSCRIPT CONSTRUCTION
+
+Recommended architecture:
+
+Introduction
+
+Challenge the developmental use of One/Many.
+
+Section 1
+
+Historiography of monotheism/polytheism and the teleology problem.
+
+Section 2
+
+From deity count to representational architecture.
+
+Section 3
+
+Aggregation/differentiation operators and the Directional Symmetry Test.
+
+Section 4
+
+The Vortex of One and Many.
+
+Section 5
+
+Representational inversion and normative authority.
+
+Section 6
+
+Historical novelty, interpretive distance, and normative carryover.
+
+Section 7
+
+Authorized interpretation and novelty-induced differentiation.
+
+Section 8
+
+Interpretive accumulation, plurality, orthodoxy, and reintegration.
+
+Section 9
+
+Authority-scope release and the possibility that divine authority can finish a function.
+
+Section 10
+
+Comparative historical cases.
+
+Section 11
+
+Falsifiable predictions and empirical research agenda.
+
+Discussion
+
+Implications for classification, religious evolution, authority, and historical adaptation.
+
+Conclusion
+
+Neither One nor Many as endpoint.
+
+Adjust architecture if the target journal strongly favors another structure.
+
+⸻
+
+CORE SENTENCES TO PRESERVE IN SPIRIT
+
+Do not copy mechanically if better wording emerges.
+
+Important conceptual statements include:
+
+The number of gods may be an insufficient statistic for the architecture of divine representation.
+
+Direction of transformation is not equivalent to direction of development.
+
+Historical novelty can turn ontological unity into interpretive plurality.
+
+Formal reversibility does not imply historical reversibility.
+
+The cost structure of normative revision is endogenous to religious belonging.
+
+A divine authority may remain sacred without being required to govern every future problem.
+
+The capacity to finish a normative function may be as important as the capacity to extend authority into new domains.
+
+And the central rhetorical question:
+
+What happens when the One is never allowed to stop speaking?
+
+Use rhetorically strong language sparingly and only where academically defensible.
+
+⸻
+
+FIGURES
+
+At minimum develop:
+
+Figure 1
+
+The Vortex of One and Many
+
+Show path-dependent recurrent movement:
+
+Differentiation
+→
+Aggregation
+→
+Authoritative Unity
+→
+Historical Novelty
+→
+Interpretive Multiplication
+→
+Differentiation
+→
+Reintegration
+→ …
+
+Do not draw a simple closed circle.
+
+⸻
+
+Figure 2
+
+Same semantic space, different divine architectures
+
+Matrix/network showing:
+
+A. one highly bundled agent
+
+B. hierarchical architecture
+
+C. multiple specialized agents
+
+⸻
+
+Figure 3
+
+Representational inversion
+
+Problem_t
+→
+Norm_t
+→
+Divine Representation
+
+then:
+
+Divine Authority
+→
+Norm_t
+
+then historical extension:
+
+Problem_(t+1)
+→
+Divine Authority
+→
+Authorized Interpretation
+→
+Norm_(t+1)
+
+⸻
+
+Figure 4
+
+Historical novelty as an engine of the Vortex
+
+Branch:
+
+Historical Novelty
+
+→ Path A: Authority-Scope Release
+
+Internalization
+→
+Functional Release
+→
+Normative Adaptation
+
+versus
+
+→ Path B: Authority Extension
+
+Divine Authority
+→
+Authorized Interpretation
+→
+Interpretive Multiplication
+→
+Differentiation
+→
+Plurality / Schism / Reintegration
+
+⸻
+
+Figure 5
+
+Multidimensional state space
+
+Show why monotheism/polytheism cannot be reduced to one axis.
+
+⸻
+
+TABLES
+
+Consider:
+
+Table 1
+
+Definitions of central concepts.
+
+Table 2
+
+Nearest prior concepts and novelty boundary.
+
+Table 3
+
+Comparative historical cases mapped to Vortex operators.
+
+Table 4
+
+Testable hypotheses and falsification conditions.
+
+Avoid redundant tables.
+
+If a table can be expressed more efficiently in prose, remove it.
+
+⸻
+
+CITATION ECOLOGY
+
+This is mandatory.
+
+Before journal selection and again before final submission:
+
+1. map the main references by journal and scholarly field
+2. identify which literature communities dominate:
+    * history of religions
+    * comparative religion
+    * theory/method
+    * cognitive science
+    * anthropology
+    * sociology
+    * theology/philosophy
+3. determine which candidate journal is already part of that bibliographic neighborhood
+4. search the candidate journal specifically for:
+    * monotheism/polytheism
+    * religious evolution
+    * comparative categories
+    * authority
+    * interpretation
+    * religious change
+    * theoretical classification
+5. add journal-specific citations only when substantively relevant
+
+No citation gaming.
+
+Every citation must support a concrete claim, method, comparison, or novelty boundary.
+
+Do not cluster all journal-specific citations in the Introduction.
+
+⸻
+
+LANGUAGE AND POSITIONING
+
+Use academically neutral language.
+
+Avoid:
+
+* primitive
+* advanced
+* irrational
+* backward
+* obsolete religion
+* superior religion
+* inferior religion
+
+unless quoting or discussing historiography.
+
+Respect emic classifications.
+
+For example:
+
+Do not classify the Trinity as polytheism against Christian self-understanding.
+
+Instead distinguish:
+
+emic classification
+
+from:
+
+etic structural analysis
+
+A tradition may be emically monotheistic while exhibiting analytically describable internal differentiation.
+
+Maintain this distinction throughout.
+
+⸻
+
+MANUSCRIPT CLAIM CALIBRATION
+
+Use a hierarchy of claims:
+
+Strongly supportable
+
+* binary god count misses important dimensions
+* One and Many coexist in many traditions
+* aggregation and differentiation are observable
+* historical novelty can require reinterpretation
+* interpretive authority can become institutionally important
+
+Moderate theoretical claims
+
+* some One/Many differences may be representational-resolution differences
+* historical novelty may generate differentiation under unity
+* authority-scope release may alter adaptation dynamics
+
+Speculative / future-test claims
+
+* specific cognitive benefits of narrative decomposition
+* formal quantitative relationships among variables
+* broad cross-cultural prevalence of Vortex trajectories
+
+Do not write all levels with the same certainty.
+
+⸻
+
+OUTPUT PACKAGE
+
+If GO or MODIFY leads to a viable manuscript, create a complete submission-ready package.
+
+Required files:
+
+1. Main manuscript DOCX
+    * figures and tables embedded inline
+    * publication-quality captions
+    * all mathematical expressions in Microsoft Word native equation format (OMML)
+    * no plain-text approximations where mathematical typography is required
+2. Clean manuscript DOCX
+3. Cover letter DOCX
+4. Title page DOCX if journal requires
+5. Figures as separate high-resolution files if required
+6. Tables as separate files if journal requires
+7. Supplementary material only if scientifically necessary
+8. Reproducibility / coding bundle if any quantitative demonstration is performed
+9. Reference-validation report
+10. Journal-fit / citation-ecology report
+11. GO/MODIFY/NO-GO report
+12. Final QC report
+13. README
+14. Final handoff ZIP
+
+Do not create unnecessary supplements.
+
+If material can be integrated into the main manuscript, prefer integration.
+
+⸻
+
+WORD FORMATTING
+
+Unless target journal instructions require otherwise:
+
+* Times New Roman
+* 12 pt body text
+* black text
+* 10 pt captions/legends
+* standard scholarly margins
+* consistent heading hierarchy
+
+Mathematical content must use OMML.
+
+This includes:
+
+* variables
+* Greek letters
+* subscripts
+* superscripts
+* fractions
+* summations
+* integrals
+* matrices
+* formal operators
+
+Do not use Unicode-only mathematical approximations when native Word equations are appropriate.
+
+⸻
+
+FIGURE/TABLE QC
+
+Audit:
+
+* every figure cited before appearance
+* every table cited before appearance
+* numbering follows first textual citation order
+* no orphaned figures or tables
+* no duplicate numbers
+* no missing references
+* no supplementary/main-text numbering confusion
+
+⸻
+
+FINAL SUBMISSION QC
+
+Before producing the final ZIP:
+
+Scientific QC
+
+* novelty claims supported
+* nearest literature explicitly acknowledged
+* no teleological inversion
+* no anti-monotheist or pro-polytheist normative drift
+* no claim that One/Many are always representationally equivalent
+* formal ≠ historical reversibility clearly stated
+* authority-scope release distinguished from secularization
+* adaptation difficulty not equated with religious failure
+* identity threat not equated with aggression
+
+Citation QC
+
+* every factual claim requiring citation has one
+* no fabricated references
+* DOI and metadata checked
+* citation supports the sentence where used
+* major counter-literature included
+* bibliography consistent
+
+Structural QC
+
+* central argument visible in Abstract, Introduction, Discussion, Conclusion
+* historical novelty module supports rather than overwhelms core Vortex theory
+* authority-scope release is integrated as a limiting/alternative pathway
+* Paper 1 and Paper 2 material has not leaked into the manuscript
+
+Cover Letter QC
+
+The cover letter must have genuine intellectual energy.
+
+It must communicate:
+
+* why the One/Many problem matters
+* why the paper is more than another critique of monotheism/polytheism binaries
+* what the Directional Symmetry Test contributes
+* what the Vortex formalization adds
+* why historical novelty matters
+* why authority-scope release is conceptually important
+* why the selected journal is the correct scholarly venue
+
+Avoid hype unsupported by the manuscript.
+
+Word QC
+
+* remove unnecessary Markdown asterisks
+* no hidden placeholder text
+* no residual prompt language
+* no tracked-change artifacts in clean manuscript
+* no inconsistent fonts
+* no accidental colored text
+* no broken equations
+* no broken captions
+* no orphaned tables/figures
+
+⸻
+
+ABSTRACT TARGET
+
+The final abstract should clearly contain:
+
+1. problem
+2. gap
+3. model
+4. novelty
+5. historical mechanism
+6. theoretical implication
+
+Do not let the abstract become a list of newly coined terms.
+
+The reader should understand the argument even if all coined labels are removed.
+
+⸻
+
+COVER LETTER POSITIONING
+
+Do NOT pitch the article merely as:
+
+“a new model of monotheism and polytheism.”
+
+Instead pitch it as:
+
+a general theory of how unity and plurality in divine representation can be generated, reversed, and regenerated as historical environments change.
+
+The strongest hook is:
+
+Many→One has often been treated as development.
+
+This paper asks why directional meaning should be inferred from aggregation itself when the reverse process is equally formally describable as differentiation.
+
+It then shows that historical novelty supplies a mechanism by which apparently unified authority may repeatedly generate interpretive plurality.
+
+Finally, it introduces authority-scope release as an alternative to indefinite expansion of divine jurisdiction.
+
+⸻
+
+FINAL THEORY STATEMENT
+
+The final manuscript should, if supported by the evidence, converge toward a statement approximately like:
+
+The One–Many distinction is better treated, in part, as a dynamic problem of representational architecture than as a developmental ladder. Divine functions, attributes, narratives, and interpretive authority may be aggregated, differentiated, and reaggregated across historical time. Because changing worlds continually generate problems not contained in earlier normative environments, ontological unity can produce interpretive plurality, which institutions may accommodate or recompress. Yet perpetual authority extension is not the only possibility: a divine authority may remain sacred while relinquishing regulatory functions whose historical work has been completed. The resulting system is not a cycle returning to its origin but a path-dependent vortex in which One and Many repeatedly reappear in transformed states.
+
+⸻
+
+FINAL SUCCESS CRITERION
+
+The manuscript succeeds only if a skeptical reader can see that it contributes something more specific than:
+
+“religions change over time,”
+
+“monotheism and polytheism are complicated,”
+
+or
+
+“religions reinterpret old teachings.”
+
+The paper must demonstrate that:
+
+1. One/Many can be modeled as aggregation–differentiation dynamics
+2. developmental direction can be challenged by a Directional Symmetry Test
+3. historical novelty provides a mechanism for renewed interpretive differentiation
+4. authorized interpretation links divine continuity to institutional structure
+5. authority-scope release supplies a theoretically distinct alternative to indefinite divine jurisdiction
+6. the complete system generates falsifiable historical and comparative predictions
+
+That integrated theory is the scientific contribution of Paper 3/3.
