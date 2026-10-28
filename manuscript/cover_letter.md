@@ -1,6 +1,6 @@
 Dear Editors,
 
-I submit "The Reincarnation of the Divine: The Vortex of One and Many in Ever-Changing Worlds," a research article of approximately 7,100 words (main text), for consideration in *Method & Theory in the Study of Religion*.
+I submit "The Reincarnation of the Divine: The Vortex of One and Many in Ever-Changing Worlds," a research article of approximately 5,700 words (main text), for consideration in *Method & Theory in the Study of Religion*.
 
 The article begins from a question the field has rarely posed in operational form: why should the aggregation of many gods into one be read as development, when the reverse dispersal can be described with equal formal plausibility as differentiation, articulation, or renewed plurality? The paper answers with an instrument, not another prohibition. Its Directional Symmetry Test requires any developmental characterization of a One–Many transformation to survive reversal of direction — to show that its evaluative content comes from a criterion independent of the transformation's direction, rather than from the direction itself. Applied to the historiography from Tylor and Schmidt to Bellah, the test separates genuine evaluative claims from directional descriptions wearing evaluative costumes.
 

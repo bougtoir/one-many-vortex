@@ -3,7 +3,7 @@
 All entries verified against public catalog/publisher records (2026-10-03). Author–date, MTSR style; bibliography contains only works cited.
 
 - Almond, Gabriel A., R. Scott Appleby, and Emmanuel Sivan. 2003. *Strong Religion: The Rise of Fundamentalisms around the World*. Chicago: University of Chicago Press.
-- Assmann, Jan. 1996. "The Mosaic Distinction: Israel, Egypt, and the Invention of Paganism." *Representations* 56: 48–67. https://doi.org/10.2307/2928715
+- Assmann, Jan. 1996. "The Mosaic Distinction: Israel, Egypt, and the Invention of Paganism." *Representations* 56: 48–67. https://doi.org/10.2307/2928707
 - Assmann, Jan. 2008. *Of God and Gods: Egypt, Israel, and the Rise of Monotheism*. Madison: University of Wisconsin Press.
 - Assmann, Jan. 2010. *The Price of Monotheism*. Stanford: Stanford University Press.
 - Athanassiadi, Polymnia, and Michael Frede, eds. 1999. *Pagan Monotheism in Late Antiquity*. Oxford: Clarendon Press.
@@ -12,7 +12,7 @@ All entries verified against public catalog/publisher records (2026-10-03). Auth
 - Barrett, Justin L. 1999. "Theological Correctness: Cognitive Constraint and the Study of Religion." *Method & Theory in the Study of Religion* 11(4): 325–339.
 - Barrett, Justin L., and Frank C. Keil. 1996. "Conceptualizing a Nonnatural Entity: Anthropomorphism in God Concepts." *Cognitive Psychology* 31(3): 219–247. https://doi.org/10.1006/cogp.1996.0017
 - Beheim, Bret, et al. 2021. "Treatment of Missing Data Determined Conclusions Regarding Moralizing Gods." *Nature* 595: E29–E34. https://doi.org/10.1038/s41586-021-03655-4
-- Bellah, Robert N. 1964. "Religious Evolution." *American Sociological Review* 29(3): 358–374. https://doi.org/10.2307/2091929
+- Bellah, Robert N. 1964. "Religious Evolution." *American Sociological Review* 29(3): 358–374. https://doi.org/10.2307/2091480
 - Bellah, Robert N., and Hans Joas, eds. 2012. *The Axial Age and Its Consequences*. Cambridge, MA: Harvard University Press.
 - Berger, Peter L., and Thomas Luckmann. 1966. *The Social Construction of Reality*. New York: Doubleday.
 - Boyer, Pascal. 2001. *Religion Explained*. New York: Basic Books.
@@ -24,15 +24,15 @@ All entries verified against public catalog/publisher records (2026-10-03). Auth
 - Evans-Pritchard, E. E. 1965. *Theories of Primitive Religion*. Oxford: Clarendon Press.
 - Feuerbach, Ludwig. 1841/1989. *The Essence of Christianity*. Trans. George Eliot. Buffalo, NY: Prometheus Books.
 - Floridi, Luciano. 2008. "The Method of Levels of Abstraction." *Minds and Machines* 18: 303–329. https://doi.org/10.1007/s11023-008-9113-7
-- Ginges, Jeremy, Scott Atran, Douglas Medin, and Khalil Shikaki. 2007. "Sacred Bounds on Rational Resolution of Violent Political Conflict." *Proceedings of the National Academy of Sciences* 104(18): 7357–7360. https://doi.org/10.1073/pnas.0700591104
+- Ginges, Jeremy, Scott Atran, Douglas Medin, and Khalil Shikaki. 2007. "Sacred Bounds on Rational Resolution of Violent Political Conflict." *Proceedings of the National Academy of Sciences* 104(18): 7357–7360. https://doi.org/10.1073/pnas.0701768104
 - Guthrie, Stewart. 1993. *Faces in the Clouds: A New Theory of Religion*. New York: Oxford University Press.
 - Hallaq, Wael B. 2001. *Authority, Continuity and Change in Islamic Law*. Cambridge: Cambridge University Press.
 - Hedges, Paul. 2025. "Multi-Devotionalism and Mono-Devotionalism: Beyond the Problems of Polytheism and Monotheism." *Journal of the American Academy of Religion* 92(2): 221–236. https://doi.org/10.1093/jaarel/lfae078
 - Hornung, Erik. 1996. *Conceptions of God in Ancient Egypt: The One and the Many*. Trans. John Baines. Ithaca, NY: Cornell University Press.
 - Jaspers, Karl. 1953. *The Origin and Goal of History*. London: Routledge and Kegan Paul.
 - Josephson, Jason Ānanda. 2012. *The Invention of Religion in Japan*. Chicago: University of Chicago Press.
-- Lang, Andrew. 1898. *The Making of Religion*. London: Longmans, Green.
 - Klostermaier, Klaus. 2007. *A Survey of Hinduism*, 3rd ed. Albany: SUNY Press.
+- Lang, Andrew. 1898. *The Making of Religion*. London: Longmans, Green.
 - MacIntyre, Alasdair. 1988. *Whose Justice? Which Rationality?* Notre Dame, IN: University of Notre Dame Press.
 - Masuzawa, Tomoko. 2005. *The Invention of World Religions*. Chicago: University of Chicago Press.
 - Mitchell, Stephen, and Peter Van Nuffelen, eds. 2010. *One God: Pagan Monotheism in the Roman Empire*. Cambridge: Cambridge University Press.
@@ -46,7 +46,7 @@ All entries verified against public catalog/publisher records (2026-10-03). Auth
 - Smith, Mark S. 2002. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*, 2nd ed. Grand Rapids, MI: Eerdmans.
 - Smith, Wilfred Cantwell. 1962. *The Meaning and End of Religion*. New York: Macmillan.
 - Steinhart, Eric. 2013. "On the Plurality of Gods." *Religious Studies* 49(3): 289–312. https://doi.org/10.1017/S0034412512000285
-- Turchin, Peter, et al. 2015. "Seshat: The Global History Databank." *Cliodynamics* 6(1): 77–107. https://doi.org/10.21237/C7clio6127693
+- Turchin, Peter, et al. 2015. "Seshat: The Global History Databank." *Cliodynamics* 6(1): 77–107. https://doi.org/10.21237/C7clio6127917
 - Tylor, Edward Burnett. 1871. *Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom*. London: John Murray.
 - Versnel, Henk S. 1990. *Ter Unus: Isis, Dionysos, Hermes — Three Studies in Henotheism*. Leiden: Brill.
 - Versnel, Henk S. 2011. *Coping with the Gods: Wayward Readings in Greek Theology*. Leiden: Brill.

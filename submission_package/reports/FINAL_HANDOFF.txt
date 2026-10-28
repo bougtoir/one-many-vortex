@@ -1,0 +1,23 @@
+FINAL_HANDOFF.txt — Paper 3/3 locked submission
+
+Manuscript version : manuscript/manuscript.md @ branch devin/1791016708-one-many-vortex
+                     (post-QC-fix: Lang 1898 + J. Z. Smith 1982 citations; word-count fix)
+Package version    : one_many_vortex_submission_LOCKED.zip (built from build/ after
+                     `python3 figures/make_figures.py` + `python3 scripts/build_docx.py`)
+Target journal     : Method & Theory in the Study of Religion (MTSR), author–date refs
+Final QC status    : All scientific/technical items PASS or PASS AFTER FIX
+                     (see FINAL_QC_REPORT.md)
+Unresolved author actions:
+                     - Title page: [Author name], [Affiliation], [ORCID],
+                       [Corresponding author], funding & acknowledgments fields
+                     - Cover letter signature block: [Author name], [Affiliation],
+                       [Corresponding address]
+                     (classified AUTHOR ACTION, not scientific FAIL — do not invent)
+Scientific content : LOCKED — no further prose/theory/figure/hypothesis changes
+Merge required     : PR #580 (bougtoir/wip) contains this QC pass; sync to
+                     bougtoir/one-many-vortex follows on merge via sync-to-repos.yml
+Public-code repro  : N/A for scientific results; figure/docx generation verified
+                     (5/5 PNGs byte-identical after regeneration)
+Submission may proceed once author metadata is filled.
+
+VERDICT: SUBMIT AFTER AUTHOR ACTIONS

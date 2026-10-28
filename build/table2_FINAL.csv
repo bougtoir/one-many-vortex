@@ -1,7 +1,7 @@
 Term,Definition
 Semantic feature space (F),"The set of attributes, functions, domains, and values a tradition predicates of the divine"
 Divine agents (G),"The agents to which features are assigned in a tradition's texts, rituals, and institutions"
-Feature–agent matrix (W),Assignment weights w_ij linking each feature to each agent; the representational architecture
+Feature–agent matrix (W),Assignment weights w(i,j) linking each feature to each agent; the representational architecture
 Aggregation (A),Operator bundling a family of agents into a compressed representation
 Differentiation (D),"Operator re-distributing features across agents, aspects, or interpretive lineages"
 Representational inversion,Shift from a norm carried by a divine representation to a norm authorized by divine will

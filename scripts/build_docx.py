@@ -140,18 +140,25 @@ def add_table(doc, rows, cap):
         for j, cell in enumerate(row):
             c = t.cell(i, j)
             c.text = ''
-            r = c.paragraphs[0].add_run(cell)
-            r.font.size = Pt(10)
-            if i == 0: r.bold = True
+            parts = cell.split("w_ij")
+            for k, part in enumerate(parts):
+                if k:
+                    r0 = c.paragraphs[0].add_run("w"); r0.font.size = Pt(10); r0.italic = True
+                    rs = c.paragraphs[0].add_run("ij"); rs.font.size = Pt(10); rs.font.subscript = True
+                    if i == 0: r0.bold = rs.bold = True
+                r = c.paragraphs[0].add_run(part)
+                r.font.size = Pt(10)
+                if i == 0: r.bold = True
     doc.add_paragraph()
 
-def add_fig(doc, key):
+def add_fig(doc, key, embed=True):
     path, cap = FIGS[key]
-    p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p.add_run().add_picture(os.path.join(ROOT, path), width=Inches(5.6))
+    if embed:
+        p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.add_run().add_picture(os.path.join(ROOT, path), width=Inches(5.6))
     caption(doc, cap)
 
-def build_manuscript(out_name):
+def build_manuscript(out_name, embed=True):
     doc = Document(); style_doc(doc)
     md = open(os.path.join(ROOT, "manuscript/manuscript.md")).read()
     refs = [l[2:].strip() for l in
@@ -162,7 +169,7 @@ def build_manuscript(out_name):
         if not block: continue
         if block.startswith("<<") and block.endswith(">>"):
             key = block[2:-2]
-            if key in FIGS: add_fig(doc, key)
+            if key in FIGS: add_fig(doc, key, embed)
             elif key in TABLES: cap, rows = TABLES[key]; add_table(doc, rows, cap)
             continue
         if block.startswith("# "):
@@ -204,7 +211,7 @@ def build_title_page():
                   "in Ever-Changing Worlds"); r.bold = True; r.font.size = Pt(16)
     for line in ["", "[Author name]", "[Affiliation]", "[ORCID]",
                  "[Corresponding author: name, address, email]",
-                 "Word count (main text): approximately 7,100",
+                 "Word count (main text): approximately 5,700",
                  "Target journal: Method & Theory in the Study of Religion",
                  "", "Declarations",
                  "Funding: [to be completed by author]",
@@ -217,7 +224,7 @@ def build_title_page():
     print("wrote title_page_FINAL.docx")
 
 if __name__ == "__main__":
-    build_manuscript("manuscript_inline_FINAL.docx")
-    build_manuscript("manuscript_clean_FINAL.docx")
+    build_manuscript("manuscript_inline_FINAL.docx", embed=True)
+    build_manuscript("manuscript_clean_FINAL.docx", embed=False)
     build_cover_letter()
     build_title_page()
